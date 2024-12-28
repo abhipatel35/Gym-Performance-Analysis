@@ -10,8 +10,10 @@ The dataset used for this analysis can be downloaded from the following link:
 
 
 ## Files
-- `user_analysis.sql`: SQL queries for user-level analysis.
-- `business_analysis.sql`: SQL queries for business-level analysis.
+- `gym_user_level_analysis.ipynb`: SQL queries for user-level analysis.
+- `gym_business_level_analysis.ipynb`: SQL queries for business-level analysis. 
+- `gym_user_level_analysis_report.pdf`: Report for SQL queries for user-level analysis.
+- `gym_business_level_analysis_report.pdf`: Report for SQL queries for business-level analysis.
 
 ## Usage
 1. Download the dataset from the provided link.
